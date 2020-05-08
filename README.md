@@ -12,7 +12,7 @@ Finding the right major took a lot more time than I thought but after exploring 
 ---
 # Knowledge Obtained Through Coding
 
-Going into IT, I thought I wouldn't be good at coding due to it being claimed one of the hsarder things to do in this field. I was pleasently proved wrong and love coding. Find out more about my [Favorite Project](https://github.com/HaileyJessee/IT1000-Final-Project/new/master)I did while taking IT1000.
+Going into IT, I thought I wouldn't be good at coding due to it being claimed one of the harder things to do in this field. I was pleasently proved wrong and love coding. Find out more about my [Favorite Project](https://github.com/HaileyJessee/IT1000-Final-Project/new/master)I did while taking IT1000.
 
 ---
 # Involvement
