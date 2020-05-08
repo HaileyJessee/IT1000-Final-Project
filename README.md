@@ -22,4 +22,4 @@ I Joined a sorority during Fall 2019. I am a Tri Sigma at the University of Miss
 ---
 # My Future
 
-I have learned so much about what I can do in IT thanks to my **IT1000** course and **IT1610** course. Though I am only through my first year of an IT Major, I have had ideas of what I would like my [Future]() to hold.
+I have learned so much about what I can do in IT thanks to my **IT1000** course and **IT1610** course. Though I am only through my first year of an IT Major, I have had ideas of what I would like my [Future](https://github.com/HaileyJessee/IT1000-Final-Project/blob/master/Future-Plan.md to hold.)
