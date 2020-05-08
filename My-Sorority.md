@@ -1,6 +1,8 @@
 # Sigma Sigma Sigma
 ## Eta Chi Chapter at The University of Missouri
 
+**Website:** *http://missouri.trisigma.org/*
+
 I moved into my dorm a week early to go through formal sorority recruitment in the fall semseter. This week was one of the craziest weeks of my life but I am so happy that I went through it.
 
 **Leadership Positions Held Within the Chapter:**
