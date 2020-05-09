@@ -14,3 +14,5 @@ I moved into my dorm a week early to go through formal sorority recruitment in t
   - A mentor to all of the new girls in our pledge class
   
   ![](https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Sigma_Sigma_Sigma_crest.png/230px-Sigma_Sigma_Sigma_crest.png)
+
+[Home](https://github.com/HaileyJessee/IT1000-Final-Project)
