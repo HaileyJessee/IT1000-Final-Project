@@ -7,7 +7,7 @@ I moved into my dorm a week early to go through formal sorority recruitment in t
 
 **Leadership Positions Held Within the Chapter:**
 + Apparel/Spirit Chair
-  - Designs Apparel for thr Chapter
+  - Designs Apparel for the Chapter
   - Leads a team of committee members
 + ARC Leader
   - Helps New Members Achieve success on their national test before initiaion
