@@ -17,7 +17,7 @@ Going into IT, I thought I wouldn't be good at coding due to it being claimed on
 ---
 # Involvement
 
-I Joined a sorority during Fall 2019. I am a Tri Sigma at the University of Missouri and have made a lot of great friends and have had so many leadership opurtunities and amazing experiences with it. Read more about my [Sigma Journey](https://github.com/HaileyJessee/IT1000-Final-Project/blob/master/My-Sorority.md)
+I Joined a sorority during Fall 2019. I am a Tri Sigma at the University of Missouri and have made a lot of great friends and have had so many leadership opportunities and amazing experiences with it. Read more about my [Sigma Journey](https://github.com/HaileyJessee/IT1000-Final-Project/blob/master/My-Sorority.md)
 
 ---
 # My Future
